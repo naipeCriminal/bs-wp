@@ -1,3 +1,5 @@
+.navbar-default .navbar-collapse,.navbar-default .navbar-form{border-color:none;}
+
 @font-face {
   font-family: 'bbva-regular';
   src: url("../fonts/bbvaweb-book.eot");
@@ -23,7 +25,7 @@
   background: #00588d !important;
   background-color: #00588d !important;
 }
-.panel .panel-heading.titulo{
+.panel .panel-heading.titulo , .titulo{
 background: rgba(65,138,190,1);
 background: -moz-linear-gradient(top, rgba(65,138,190,1) 0%, rgba(255,255,255,1) 100%);
 background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(65,138,190,1)), color-stop(100%, rgba(255,255,255,1)));
@@ -40,4 +42,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#418abe', end
 }
 .panel .SubMenus{
   font-size: 10px;
+}
+ #bs-example-navbar-collapse-1{
+  /*color: #fff;*/
+  background: #4189be;
+  background-color: #4189be;
+  padding-top: 5px;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+  background-color: none;
+  
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+  background-color: #00588d;
+}
+nav .SubMenus li a{
+  color: #000000;
 }
