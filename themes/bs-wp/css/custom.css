@@ -19,6 +19,10 @@
   background: #4189be;
   background-color: #4189be;
 }
+.selectPanel{
+  background: #00588d !important;
+  background-color: #00588d !important;
+}
 .panel .panel-heading.titulo{
 background: rgba(65,138,190,1);
 background: -moz-linear-gradient(top, rgba(65,138,190,1) 0%, rgba(255,255,255,1) 100%);

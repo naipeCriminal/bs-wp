@@ -1,3 +1,7 @@
 $(document).on("ready" , function(){
-	// alert("ok")
+	$(".panel .panel-heading a").on("click" , function(){
+		$('.panel-heading').removeClass('selectPanel');
+		$(this).parent().parent().addClass('selectPanel');
+		console.log($(this))
+	})
 })
