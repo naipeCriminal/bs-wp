@@ -76,11 +76,11 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="heading3">
+				    <div class="panel-heading titulo" role="tab" id="heading3">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+				        
 				          Seguros para Empresas
-				        </a>
+				        
 				      </h4>
 				    </div>
 				  </div>				  
@@ -137,11 +137,9 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="heading3">
+				    <div class="panel-heading titulo" role="tab" id="heading3">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
 				          Seguro para Personas
-				        </a>
 				      </h4>
 				    </div>
 				  </div>				  
