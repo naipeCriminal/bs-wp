@@ -14,3 +14,8 @@
   font-weight: 500;
   font-stretch: normal;
 }
+
+.panel-heading{
+  background: #4189be !important;
+  background-color: #4189be !important;  
+}

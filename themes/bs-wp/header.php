@@ -34,7 +34,7 @@
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1">
+				    <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
 				      <div class="panel-body">
 				                         <ul id="SubMenu" class="SubMenus">
 				                   <li><a href="quien_preve.asp" target="contenedorSitio">¿Qué es Seguros Salud Bancomer?</a></li>
@@ -74,12 +74,16 @@
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
-				      <div class="panel-body">
-				----
-				      </div>
-				    </div>
 				  </div>
+				  <div class="panel panel-default">
+				    <div class="panel-heading" role="tab" id="heading3">
+				      <h4 class="panel-title">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+				          Seguros para Empresas
+				        </a>
+				      </h4>
+				    </div>
+				  </div>				  
 				  <div class="panel panel-default">
 				    <div class="panel-heading" role="tab" id="heading4">
 				      <h4 class="panel-title">
@@ -132,6 +136,15 @@
 				      </div>
 				    </div>
 				  </div>
+				  <div class="panel panel-default">
+				    <div class="panel-heading" role="tab" id="heading3">
+				      <h4 class="panel-title">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+				          Seguro para Personas
+				        </a>
+				      </h4>
+				    </div>
+				  </div>				  
 				  <div class="panel panel-default">
 				    <div class="panel-heading" role="tab" id="heading6">
 				      <h4 class="panel-title">
