@@ -27,14 +27,14 @@
 
 				 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingOne">
+				    <div class="panel-heading" role="tab" id="heading1">
 				      <h4 class="panel-title">
-				        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+				        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 				          Quienes Somos
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+				    <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1">
 				      <div class="panel-body">
 				                         <ul id="SubMenu" class="SubMenus">
 				                   <li><a href="quien_preve.asp" target="contenedorSitio">¿Qué es Seguros Salud Bancomer?</a></li>
@@ -47,14 +47,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingTwo">
+				    <div class="panel-heading" role="tab" id="heading2">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
 				          Nuestros Productos
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+				    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
 				      <div class="panel-body">
 				                  <ul id="SubMenu" class="SubMenus">
 				                    <li><a href="quien_negoc_segga.asp" target="contenedorSitio">Seguro de GMM</a></li>
@@ -67,28 +67,28 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading3">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
 				          Medicina Preventiva
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
 				      <div class="panel-body">
 				----
 				      </div>
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading4">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
 				          Gastos Médicos Mayores
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
 				      <div class="panel-body">
 				             <ul id="SubMenu" class="SubMenus">
 				            <li><a href="gamem_descr.asp" target="contenedorSitio">Descripción</a></li>
@@ -105,14 +105,14 @@
 				    </div>
 				  </div>
 				      <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading5">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
 				          Salud
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
 				      <div class="panel-body">
 				         <ul id="SubMenu" class="SubMenus">
 				          <li><a href="salud_descri.asp" target="contenedorSitio">Descripción</a></li>
@@ -133,14 +133,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading6">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
 				          Seguro Médico Bancomer
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
 				      <div class="panel-body">
 				                 <ul id="SubMenu" class="SubMenus">
 				                      <li><a href="segumed_descri.asp" target="contenedorSitio">Descripción</a></li>
@@ -154,14 +154,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading7">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
 				          Respaldo CirugíaSegura BBVA Bancomer
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
 				      <div class="panel-body">
 				                 <ul id="SubMenu" class="SubMenus">
 				                      <li><a href="cirugiaseg_descri.asp" target="contenedorSitio">Descripción</a></li>
@@ -176,14 +176,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading8">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
 				          Seguro de Gastos Médicos Individual Básico Estandarizado
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
 				      <div class="panel-body">
 				                 <ul id="SubMenu_GM" class="SubMenus">
 				                     <li><a href="gmmb_descri.asp" target="contenedorSitio">Descripción</a></li>
@@ -194,14 +194,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading9">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
 				          Seguro de Salud Dental Estandarizado
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
 				      <div class="panel-body">
 				                 <ul id="SubMenu" class="SubMenus">
 				                       <li><a href="admb_descri.asp" target="contenedorSitio">Descripción</a></li>
@@ -211,14 +211,14 @@
 				    </div>
 				  </div>
 				  <div class="panel panel-default">
-				    <div class="panel-heading" role="tab" id="headingThree">
+				    <div class="panel-heading" role="tab" id="heading10">
 				      <h4 class="panel-title">
-				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="false" aria-controls="collapse10">
 				          Seguro Individual o Familiar de Salud Básico Estandarizado
 				        </a>
 				      </h4>
 				    </div>
-				    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				    <div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
 				      <div class="panel-body">
 				                 <ul id="SubMenu" class="SubMenus">
 				                       <li><a href="ammb_descri.asp" target="contenedorSitio">Descripción</a></li>
